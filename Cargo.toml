@@ -1,5 +1,5 @@
 [package]
-name = "jokecompresser"
+name = "XY-file-obfuscator-lol"
 version = "0.1.0" # should we change it to 1.0.0 
 edition = "2021"
 
